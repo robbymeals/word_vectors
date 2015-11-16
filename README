@@ -1,0 +1,17 @@
+## 
+comparisons between different methods for generating distributed term/word representation vectors
+
+1. word2vec
+1. glove
+1. term-doc svd
+1. rnn with embeddings to predict sentiment 
+1. brown clusters
+
+### visualizations 
+The geometry of it all...
+social science applications
+
+
+### features 
+reducing dimensionality, improving performance
+
